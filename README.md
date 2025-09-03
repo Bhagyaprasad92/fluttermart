@@ -6,7 +6,7 @@
 <p align="center">
   A sleek, animated e-commerce Flutter app with cart management, elegant UI, and smooth transitions.
   <br/>
-  <a href="https://www.youtube.com/shorts/_hhhTlW0mss">Live Demo</a>
+  <a href="https://drive.google.com/file/d/1VKdRSGSdEgADVrq0VM8Uje_MbqovYmpF/view?usp=sharing">Live Demo</a>
 </p>
 
 ---
